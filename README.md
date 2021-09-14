@@ -8,5 +8,5 @@ This is my live site. By live, I mean just that. It's whatever I am building at 
 
 It doesn't have any clear purpose, other than that. Just someplace to put stuff I'm doing or want to do.
 
-Build using [Next.js](https://nextjs.org) and deployed with [Netlify](https://www.netflify.com).
+Build using [Next.js](https://nextjs.org) and deployed with [Netlify](http://netlify.com/).
 
